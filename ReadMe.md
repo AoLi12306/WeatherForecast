@@ -1,6 +1,6 @@
 This is a project to search USA city weather forecast
 
-
+![image](https://github.com/AoLi12306/WeatherForecast/blob/master/resources/forecast_demo.gif )  
 
 ----------------------------------------------------------
 API key prepare:
